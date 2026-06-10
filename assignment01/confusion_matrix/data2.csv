@@ -1,0 +1,16 @@
+Review,Sentiment
+"The movie was fantastic and entertaining",Positive
+"I loved the acting and storyline",Positive
+"An excellent film with great performances",Positive
+"The cinematography was beautiful",Positive
+"One of the best movies I have seen",Positive
+"The characters were interesting and engaging",Positive
+"The soundtrack was amazing",Positive
+"I highly recommend this movie",Positive
+"The movie was boring and too long",Negative
+"I disliked the acting and plot",Negative
+"The story was confusing and dull",Negative
+"It was a waste of time",Negative
+"The characters were poorly written",Negative
+"The ending was disappointing",Negative
+"I would not recommend this film",Negative

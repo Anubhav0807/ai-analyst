@@ -1,0 +1,16 @@
+Study_Hours,Attendance_Percentage,Assignment_Score,Result
+2,55,30,Fail
+2.5,58,35,Fail
+3,60,38,Fail
+3.5,62,40,Fail
+4,65,45,Fail
+4.5,68,48,Fail
+5,70,50,Fail
+5.5,72,55,Pass
+6,75,60,Pass
+6.5,78,65,Pass
+7,80,70,Pass
+7.5,82,75,Pass
+8,85,80,Pass
+8.5,88,85,Pass
+9,92,90,Pass
